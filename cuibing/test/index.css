@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	margin: 20px;
+}
+p{
+	margin: 20px 0 10px 0;
+	cursor: pointer;
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+p,img{
+	margin-left: 20px;
+}
